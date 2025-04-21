@@ -7,3 +7,4 @@ export const Route = createFileRoute("/")({
 
 // conosle.log(Route1);
 // console.log(Route2);
+// console.log(Route3);

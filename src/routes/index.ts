@@ -5,3 +5,4 @@ export const Route = createFileRoute("/")({
 	component: Home,
 });
 
+// conosle.log(Route1);
